@@ -1,18 +1,18 @@
-# Custom blocklist to address mising hosts found in https://d3ward.github.io/toolz/adblock.html and more
+# Custom blocklist to address missing hosts detected in https://d3ward.github.io/toolz/adblock.html and more
 
-https://analyticsengine.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://amazonclix.com
-https://widgets.pinterest.com
-https://d.reddit.com
-https://metrics1.data.hicloud.com
-https://metrics2.data.hicloud.com
-https://metrics3.data.hicloud.com
-https://metrics4.data.hicloud.com
-https://metrics5.data.hicloud.com
-https://metrics6.data.hicloud.com
-https://metrics7.data.hicloud.com
-https://metrics8.data.hicloud.com
-https://metrics9.data.hicloud.com
-https://samsung-com.112.2o7.net
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+amazonclix.com
+widgets.pinterest.com
+d.reddit.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics3.data.hicloud.com
+metrics4.data.hicloud.com
+metrics5.data.hicloud.com
+metrics6.data.hicloud.com
+metrics7.data.hicloud.com
+metrics8.data.hicloud.com
+metrics9.data.hicloud.com
+samsung-com.112.2o7.net
